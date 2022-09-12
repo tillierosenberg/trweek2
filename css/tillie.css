@@ -1,0 +1,39 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ 
+ nav a{
+     background-color: lightblue; 
+     display: inline;
+     border-radius: 500px; 
+     border: 5px dotted black;
+     font-size: 50px;
+     text-align: center;
+ }
+ 
+ img { 
+     width: 24%; 
+     padding: 10px;
+     border: 4px dotted red; 
+     margin: 0px;
+ }
+
+ p { 
+     border: 4px dotted blue; 
+     font-size: 90px; 
+     margin: 4px; 
+     font-weight: bold; 
+
+ }
