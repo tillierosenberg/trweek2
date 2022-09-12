@@ -14,7 +14,7 @@ body{
     list-style-type: upper-roman;
  }
  
- nav a{
+ nav li{
      background-color: lightblue; 
      display: inline;
      border-radius: 500px; 
@@ -28,6 +28,7 @@ body{
      padding: 10px;
      border: 4px dotted red; 
      margin: 0px;
+    box-sizing: border-box;
  }
 
  p { 
