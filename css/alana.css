@@ -1,0 +1,32 @@
+
+    
+body{margin: 5px;
+    padding: 5px;
+    line-height: 1.15px;
+
+}
+h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;}
+
+ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    padding: 15px;
+}
+   
+
+
+nav li {
+    display: inline-block;
+    padding: 8px;
+    background-color: rgb(0, 251, 255);
+    border: 1px solid;
+    border-radius: 30px}
+p{
+    border: 5px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgba(227, 212, 251, 0.092);
+
+}
